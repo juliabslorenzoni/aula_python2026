@@ -1,6 +1,6 @@
 import logging
 
-logging.basicConfig(filename="aula_python2026/Arquivo_Desafio7.log,",
+logging.basicConfig(filename="Arquivo_Desafio7.log,",
                     level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 while True:

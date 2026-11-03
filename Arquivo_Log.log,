@@ -1,0 +1,3 @@
+2026-08-31 11:59:09,146 - root - INFO - A função foi chamada pelo usuário com os valores 10 e 0
+2026-08-31 11:59:09,146 - root - ERROR - Erro ao dividir por 0
+2026-08-31 12:28:34,257 - root - INFO - O valor total é 30
